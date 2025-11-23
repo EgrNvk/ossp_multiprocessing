@@ -16,7 +16,7 @@ import threading
 import time
 import random
 
-users = ["Egor", "Anastasia", "Andrew", "Artyom", "Ivan", "Sasha", "Volodymyr"]
+users = ["Egor", "Anastasia", "Andrew", "Artyom", "Ivan", "Sasha", "Volodymyr", "Leonid", "Margarita", "Vitaliy", "Nikita", "Rodion", "Oleksandr", "Bogdan"]
 
 drinks = {
     "Water":    {"stock": None, "prep_time": (0.2, 0.4)},
